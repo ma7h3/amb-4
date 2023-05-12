@@ -1,0 +1,122 @@
+body {
+    max-width: 100%;
+    max-height: 100%;
+
+}
+.cat{
+  background-image: url(gdr.jpg);
+  width: 100%;
+}
+  .abner{
+    background-color: black;
+    padding: 15px 15px;
+    color: white;
+    font-size: small;
+    position: absolute;
+    top: 5%;
+    left: 35%;
+  }
+ .rodrigo{
+  background-color: black;
+  padding: 15px 15px;
+  color: white;
+  font-size: small;
+  position: absolute;
+  top: 12%;
+  left: 20%;
+}
+.alberto{
+    background-color: black;
+    padding: 15px 15px;
+    color: white;
+    font-size: small;
+    position: absolute;
+    top: 25%;
+    left: 40%;
+}
+.het{
+    background-color: black;
+    padding: 15px 15px;
+    color: white;
+    font-size: small;
+    position: absolute;
+    top: 31%; 
+    left: 35%;
+    list-style-type: none;
+}
+.rlt{
+    background-color: black;
+    padding: 15px 15px;
+    color: white;
+    font-size: small;
+    position: absolute;
+    top: 41%;
+    left: 30%;
+}
+.astolfo{
+    background-color: black;
+    padding: 15px 15px;
+    color: white;
+    font-size: small;
+    position: absolute;
+    top: 65%;
+    left: 20%;
+}
+.RODOLFO{
+    background-color: black;
+    padding: 15px 15px;
+    color: white;
+    font-size: small;
+    position: absolute;
+    top: 59%;
+    left: 44%;
+}
+.nsei{
+    background-color: black;
+    padding: 15px 15px;
+    color: white;
+    font-size: small;
+    position: absolute;
+}
+.prcdm{
+    background-color: black;
+    padding: 15px 15px;
+    color: white;
+    font-size: small;
+    position: absolute;
+}
+.abcd{
+    background-color: black;
+    padding: 15px 15px;
+    color: white;
+    font-size: small;
+    position: absolute;
+}
+.sds{
+    background-color: black;
+    padding: 15px 15px;
+    color: white;
+    font-size: small;
+    position: absolute;
+}
+.rcc{
+    background-color: black;
+    padding: 15px 15px;
+    color: white;
+    font-size: small;
+    position: absolute;
+}
+.rsu{
+    background-color: black;
+    padding: 15px 15px;
+    color: white;
+    font-size: small;
+    position: absolute;
+}
+.lista{
+    background-color: black;
+    padding: 15px 15px;
+    color: white;
+    font-size: small;
+    position: absolute;
+}
